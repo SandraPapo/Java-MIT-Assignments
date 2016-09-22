@@ -1,0 +1,28 @@
+Library hours:
+9am to  5pm
+
+Library addresses:
+10 Main St.
+228 Liberty St.
+
+Borrowing The Lord of the Rings:
+You have successfully borrowed The Lord of the Rings
+This book is already borrowed.
+Sorry that book is not available
+
+Books available in the first library:
+The Da Vinci Code
+Le Petit Prince
+A Tale of Two Cities
+
+Books available in the second library:
+No books in catalog
+
+Returning The Lord of the Rings:
+You have sucessfully returned The Lord of the Rings
+
+Books available in the first library:
+The Da Vinci Code
+Le Petit Prince
+A Tale of Two Cities
+The Lord of the Rings
